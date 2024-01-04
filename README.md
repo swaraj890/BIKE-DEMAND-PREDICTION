@@ -5,21 +5,21 @@ Project Details: The original dataset comprised bike rental information, encompa
 
 ## Methodology: 
 Following data preprocessing and cleaning, the dataset was split into training and test sets. Multiple model architectures and hyperparameter settings were explored, with the best-performing model selected based on test data results.
-Attribute Information:
-Date : year-month-day
-Rented_Bike_Count - Count of bikes rented at each hour
-Hour - Hour of he day
-Temperature-Temperature in Celsius
-Humidity - %
-Windspeed - m/s
-Visibility - 10m
-Dew point temperature - Celsius
-Solar radiation - MJ/m2
-Rainfall - mm
-Snowfall - cm
-Seasons - Winter, Spring, Summer, Autumn
-Holiday - Holiday/No holiday
-Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
+ Attribute Information:
+ Date : year-month-day
+ Rented_Bike_Count - Count of bikes rented at each hour
+ Hour - Hour of he day
+ Temperature-Temperature in Celsius
+ Humidity - %
+ Windspeed - m/s
+ Visibility - 10m
+ Dew point temperature - Celsius
+ Solar radiation - MJ/m2
+ Rainfall - mm
+ Snowfall - cm
+ Seasons - Winter, Spring, Summer, Autumn
+ Holiday - Holiday/No holiday
+ Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 ## Conclusion
 The primary aim of this project was to enhance the stability of bike demand on an hourly basis. Key insights derived from the analysis include:
 
